@@ -15,6 +15,6 @@
 
 Пример настройки приложения после интеграции:
 
-![GrowBox in Blink](https://techmeat.net/images/growbox.gif)
+![GrowBox in Blink](https://techmeat.net/images/growbox2.gif)
 
 Примечание: График в Blynk ограничен 4 показаниями.
