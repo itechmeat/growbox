@@ -14,5 +14,6 @@
 Подробные описания подключения к Blynk легко можно найти как в текстовом виде, так и на Youtube.
 
 [Пример настройки приложения после интеграции](https://techmeat.net/images/growbox2.gif)
+![GrowBox in Blink](https://techmeat.net/images/growbox2.gif)
 
 Примечание: График в Blynk ограничен 4 показаниями.
